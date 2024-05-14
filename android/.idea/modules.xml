@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_background.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_background.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_background.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_background.main.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_background.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_background.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_background.unitTest.iml" />
     </modules>
   </component>
 </project>
